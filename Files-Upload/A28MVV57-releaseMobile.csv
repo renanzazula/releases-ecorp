@@ -1,0 +1,49 @@
+Summary
+"(QA) [Transaction inquiry] Authorization rule Add, Authorization rule Delete and Authorization rule Edit does not appear"
+(QA) [Transaction Inquiry] Show Process/Show Records tab does not appear
+"(QA)[Pending Authorization - Multi Credit & Debit] Unable to approve a pending authorization, general system error is displayed"
+[BE][Direct Debit New Initiative][Direct Debit Collection and Arrear Collection Reports]
+[FE][Mobile][Direct Debit New Initiative][Direct Debit Collection and Arrear Collection Reports]
+[BE][Direct Debit New Initiative][Transaction Inquiry]
+[FE][Mobile][Direct Debit New Initiative][Transaction Inquiry]
+[BE] [AlAhlieCorp Corporate Self Admin Services][User Management]
+[FE] [Mobile] [AlAhlieCorp Corporate Self Admin Services] [User Management]
+[BE] [AlAhlieCorp Corporate Self Admin Services][Authorization Roles]
+[FE] [Mobile] [AlAhlieCorp Corporate Self Admin Services][Authorization Roles]
+[FE] [Mobile] [AlAhlieCorp Corporate Self Admin Services][Authorization Rules]
+[FE] [Mobile] [AlAhlieCorp Corporate Self Admin Services][Ticket Inquiry]
+[BE] [AlAhlieCorp Corporate Self Admin Services][Authorization Rules]
+[FE] [Mobile] [Bulk Transfers - Multi Credit & Debit][Bulk Transfers - Multi Credit & Debit Inquiry]
+SAUDIA MOI Bulk Inquiry Mobile/Pendings
+[FE][Mobile] Refactor encrypt interceptor
+"(QA)[Corporate Cards] On corporate cards limit, after the success screen a cache error is displayed. "
+Change Req. #36055 - Failed Credential should be logged instead of showing system/anonymous user 
+[QA](Self Admin Services)Missing Birth Date in User Details
+[QA](Self Admin Services)Edit menu keeps loading indefinitely 
+[QA](Self Admin Services)Labels in Online Status List do not appear correctly
+[QA](Self Admin Services)Create new user screen is not loading correctly
+[QA](Self Admin Services)Add button is appearing in Authorization rules
+[QA](Self Admin Services)No validations for Business rules fields
+[QA](Self Admin Services) The allow accounts are not being saved
+[QA](Self Admin Services)Changes made to selected accounts are not being applied
+[QA](User management)User can select disabled by admin option
+[QA](User Management) missing fields in add new user menu
+[QA](User management)No validations for mobile prefix
+[QA](User management)Error appears when proceeding
+[QA](User management)Changing accounts resets the add user flow and then can't enter again
+[QA](SAUDIA MOI Bulk Inquiry) General system error appears when selecting result tx id
+(QA)[SADAD] SAUDIA MOI_ It is possible to select invalide date To
+[Mobile] 2.6 Balance Certificate
+[FE] Menu option for Notification
+[API] New Req. #35964 - eCorp IPS Enhancement
+[FE] - Change Req. #36121 - Request POS - Terminal Address field validation
+[BE] - Change Req. #36121 - Request POS - Terminal Address field validation
+(QA)[User management] Impossible to select future Expiry Date
+[QA](Self Admin Services)The by user tag does not appear in the dropdown
+(QA)[Transaction Inquiry] File link missing in details of transations inquiry
+Bug (New Mobile) #36304 - Defect 171387 - eCorp Mobile_Unable to Issue LG and Search LG for new accounts (the accounts for which LG has not been issued earlier)
+(QA)[Saudia MOI Bulk Inquiry] General System error at export options inside show records
+Bug (New Mobile) XXXXX - Defect 171540: eCorp Mobile_Unable to perform Registered Beneficiary -> SARIE Transfer (Amount above 20K) if the Beneficiary Bank is Not registered to IPS 
+[BE] Bug (New Mobile) XXXXX - Defect 171541: eCorp Mobile_IPS Quick Transfer_Select the Bank and enter the IBAN Number of different Bank_we are able to proceed further  
+[FE] Bug (New Mobile) XXXXX - Defect 171541: eCorp Mobile_IPS Quick Transfer_Select the Bank and enter the IBAN Number of different Bank_we are able to proceed further
+(QA)[Pending Authorization - Multi Credit & Debit] Labels appearing as Keys

@@ -1,0 +1,22 @@
+
+
+
+console.log("releaseVersion_releaseId: " + releaseVersion_releaseId);
+console.log("releaseVersion_customer: " + releaseVersion_customer);
+console.log("releaseVersion_requester: " + releaseVersion_requester);
+console.log("releaseVersion_requestDate: " + releaseVersion_requestDate);
+console.log("releaseVersion_urgent: " + releaseVersion_urgent);
+console.log("details_application: " + details_application);
+console.log("details_frontEndVersion: " + details_frontEndVersion);
+console.log("details_backEndVersion: " + details_backEndVersion);
+console.log("details_onTopOfRelease: " + details_onTopOfRelease);
+console.log("details_date: " + details_date);
+console.log("accountManagement_authorizedBy: " + accountManagement_authorizedBy);
+console.log("accountManagement_date: " + accountManagement_date);
+console.log("accountManagement_jobTitle: " + accountManagement_jobTitle);
+console.log("qualityAssurance_authorizedBy: " + qualityAssurance_authorizedBy);
+console.log("qualityAssurance_date: " + qualityAssurance_date);
+console.log("qualityAssurance_jobTitle: " + qualityAssurance_jobTitle);
+console.log("releaseOwner_authorizedBy: " + releaseOwner_authorizedBy);
+console.log("releaseOwner_date: " + releaseOwner_date);
+console.log("releaseOwner_jobTitle: " + releaseOwner_jobTitle);
